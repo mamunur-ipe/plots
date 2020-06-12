@@ -1,8 +1,11 @@
 # High Quality Plots for Publications
 
 ## Box Plot
+This is chart
 ![box plot](Box_plot.png)
 ## Grouped Bar Chart
-![grouped chart](Grouped_bar_chart.png)
+This is chart
+![grouped chart](Box_plot.png)
 ## Histogram With Distribution
-![histogram distribution](Histogram_distribution.png)
+This is chart
+![histogram distribution](Box_plot.png)
