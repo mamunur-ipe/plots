@@ -12,14 +12,8 @@
 ## Histogram With Distribution
 ![histogram distribution](images/Histogram_distribution.png)
 
-## US Map
-![us map](images/US_map.png)
-
 ## 3D Plot
 ![3d plot](images/3D_plot.png)
-
-## Confidence Interval Plot
-![ci plot](images/CI_plot.png)
 
 ## Correlation Heatmap
 ![heatmap](images/Correlation_heatmap.png)
@@ -27,4 +21,15 @@
 ## Tornedo Plot For Sensitivity Analysis
 ![Tornedo](images/Sensitivity_plot.png)
 
+## Smooth Line Plot
+![smooth line](images/Smooth_line_plot.png)
+
+## Violin Plot
+![violin plot](images/Violin_plot.png)
+
+## US Map
+![us map](images/US_map.png)
+
+## Confidence Interval Plot
+![ci plot](images/CI_plot.png)
 
