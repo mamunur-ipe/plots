@@ -8,9 +8,6 @@ from matplotlib.gridspec import GridSpec
 import matplotlib as mpl
 
 df1=pd.read_csv('Results_baseline_scenario_replications.csv', delimiter = ',')
-df2=pd.read_csv('Results_what_if_scenario_replications.csv', delimiter = ',')
-df2.head()
-
 
 fig = plt.figure(constrained_layout=True, figsize=(10,4))
 gs = GridSpec(1, 7, figure=fig)
