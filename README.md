@@ -1,3 +1,3 @@
 # High Quality Plots for Publications
 
-![My Image](/images/Violin plot_breast cancer.png)
+![My Image](Box_plot.png)
