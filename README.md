@@ -1,4 +1,4 @@
-# High Quality Plots for Publications
+# High Quality Plots For Scientific Publications
 
 ## Box Plot
 ![box plot](images/Box_plot.png)
