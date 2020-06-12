@@ -81,8 +81,5 @@ mpl.rcParams['boxplot.whiskerprops.color'] = 'r'
 mpl.rcParams['boxplot.flierprops.markeredgecolor'] = 'r'
 mpl.rcParams['boxplot.flierprops.marker'] = 'o'
 
-###super title of the subplots
-#fig.suptitle("(a)  Travel time", fontweight="bold", size=12)
-
 fig.savefig("Box plot_parking project", dpi=300, bbox_inches='tight')
 
