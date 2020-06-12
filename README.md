@@ -1,2 +1,3 @@
 # High Quality Plots for Publications
-![Violin Plot](/images/Violin plot_breast cancer.png)
+
+![Alt text](/images/Violin plot_breast cancer.png?raw=true "Violin Plot")
