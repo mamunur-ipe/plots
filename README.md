@@ -1,1 +1,1 @@
-# plots
+# High Quality Plots for Publications
