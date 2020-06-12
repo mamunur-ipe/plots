@@ -1,7 +1,7 @@
 # High Quality Plots for Publications
 
-![alt text](Box_plot.png)
+![box plot](Box_plot.png)
 
-![alt text](Grouped_bar_chart.png)
+![grouped bar chart](Grouped_bar_chart.png)
 
-![alt text](Histogram_distribution.png)
+![histogram distribution](Histogram_distribution.png)
