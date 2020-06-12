@@ -1,0 +1,7 @@
+variables,high,low,sum
+Vehicle frontal area,0.0112,-0.0123,0.0235
+Engine drivetrain efficiency,-0.0203,0.0256,0.0459
+Engine efficiency,-0.0203,0.0256,0.0459
+Vehicle mass,0.0375,-0.0372,0.0747
+Road speed,-0.0572,0.047,0.1042
+Engine displacement,0.1445,-0.1445,0.2891

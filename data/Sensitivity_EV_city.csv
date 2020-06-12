@@ -1,0 +1,6 @@
+variables,high,low,sum
+Vehicle frontal area,0.029615435,-0.031489042,0.061104477
+Vehicle mass,0.119475214,-0.119475214,0.238950428
+Road speed,0.144322354,-0.155606968,0.299929322
+Grid carbon intensity,0.15,-0.15,0.3
+Motor powertrain efficiency,-0.217119952,0.171623718,0.388743669

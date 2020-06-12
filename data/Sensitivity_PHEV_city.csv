@@ -1,0 +1,10 @@
+variables,high,low,sum
+Vehicle frontal area,0.0156,-0.0161,0.0317
+Engine drivetrain efficiency,-0.0315,0.0354,0.0669
+Engine efficiency,-0.0315,0.0354,0.0669
+Vehicle mass,0.0392,-0.0425,0.0817
+Road speed,-0.0516,0.0421,0.0938
+Grid carbon intensity,0.0514,-0.0514,0.1028
+Electric mile percetage,-0.0772,0.0489,0.1261
+Engine displacement,0.0854,-0.091,0.1764
+Motor powertrain efficiency,-0.1098,0.1099,0.2197
